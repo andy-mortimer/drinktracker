@@ -1,10 +1,10 @@
 # Drink Tracker
 
-You get what you measure!
+> **You get what you measure!**
 
 Track how much you drink, both day by day and over the weeks and months.
 
-It's easy to enter the exact strength and volume, and to re-use details you've already entered. You can even use a photo to quickly find the same drink again.
+It's easy to enter the exact strength and volume, and to re-use details you've already entered. You can even use a photo to quickly find and enter the same drink again.
 
 If you're following particular consumption guidelines, such as the UK government guidelines, you can display those in the app too, and see at a glance whether you are on track or not.
 
