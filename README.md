@@ -12,8 +12,7 @@ If you're following particular consumption guidelines, such as the UK government
 
 Record new drinks based on built-in templates. Once you've logged something once, re-use that information with a just couple of taps.
 
-![Reuse existing](existing-drink.jpg)
-![Create new](new-drink.jpg)
+![Reuse existing](existing-drink.jpg) ![Create new](new-drink.jpg)
 
 ### Give details
 
