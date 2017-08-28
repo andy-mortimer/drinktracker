@@ -1,39 +1,22 @@
 # Drink Tracker
 
-## Welcome to GitHub Pages
+You get what you measure!
 
-You can use the [editor on GitHub](https://github.com/andy-mortimer/drinktracker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Track how much you drink, both day by day and over the weeks and months.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It's easy to enter the exact strength and volume, and to re-use details you've already entered. You can even use a photo to quickly find the same drink again.
 
-### Markdown
+If you're following particular consumption guidelines, such as the UK government guidelines, you can display those in the app too, and see at a glance whether you are on track or not.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Features
 
-```markdown
-Syntax highlighted code block
+- log drinks based on built-in templates, or re-use details you've entered previously
 
-# Header 1
-## Header 2
-### Header 3
+- enter the name, strength and volume of your drink, and if you'd like, take a photo to recognise it in the list
 
-- Bulleted
-- List
+- view units consumed over the past 7 days
 
-1. Numbered
-2. List
+- view your week-by-week consumption over the time you've been using the app
 
-**Bold** and _Italic_ and `Code` text
+- select guidelines to check your consumption against, or simply track it
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andy-mortimer/drinktracker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
