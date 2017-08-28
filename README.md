@@ -10,13 +10,19 @@ If you're following particular consumption guidelines, such as the UK government
 
 ## Features
 
-- log drinks based on built-in templates, or re-use details you've entered previously
+![Reuse existing](existing-drink.jpg)
+![Create new](new-drink.jpg)
+Log drinks based on built-in templates, or re-use details you've entered previously
 
-- enter the name, strength and volume of your drink, and if you'd like, take a photo to recognise it in the list
+![Details](drink-details.jpg)
+enter the name, strength and volume of your drink, and if you'd like, take a photo to recognise it in the list
 
-- view units consumed over the past 7 days
+![Dashboard](dashboard.png)
+view units consumed over the past 7 days
 
-- view your week-by-week consumption over the time you've been using the app
+![By week](byweek.png)
+view your week-by-week consumption over the time you've been using the app
 
-- select guidelines to check your consumption against, or simply track it
+![Select guidelines](guidelines.jpg)
+select guidelines to check your consumption against, or simply track it
 
