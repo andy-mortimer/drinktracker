@@ -8,21 +8,40 @@ It's easy to enter the exact strength and volume, and to re-use details you've a
 
 If you're following particular consumption guidelines, such as the UK government guidelines, you can display those in the app too, and see at a glance whether you are on track or not.
 
-## Features
+### Log drinks as you drink them
+
+Record new drinks based on built-in templates. Once you've logged something once, re-use that information with a just couple of taps.
 
 ![Reuse existing](existing-drink.jpg)
 ![Create new](new-drink.jpg)
-Log drinks based on built-in templates, or re-use details you've entered previously
+
+### Give details
+
+Log the exact strength and volume of your drink to get an accurate picture of what you're drinking.
+
+You can also take a photo, to help you recognise it in the list.
 
 ![Details](drink-details.jpg)
-enter the name, strength and volume of your drink, and if you'd like, take a photo to recognise it in the list
+
+### Current week at-a-glance 
+
+Quickly see how much you've drunk this week, compared to guidelines if you're displaying them. You'll also see an estimate
+based on what you drank last week.
 
 ![Dashboard](dashboard.png)
-view units consumed over the past 7 days
+
+### History
+
+See how your drinking has changed over time.
 
 ![By week](byweek.png)
-view your week-by-week consumption over the time you've been using the app
+
+### Compare against guidelines
+
+Compare your consumption against different iterations of the UK government guidelines, or just show the numbers.
 
 ![Select guidelines](guidelines.jpg)
-select guidelines to check your consumption against, or simply track it
 
+## Features
+
+- Uses UK units
